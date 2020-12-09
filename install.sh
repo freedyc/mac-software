@@ -32,6 +32,8 @@ brew install cask wpsoffice
 # 安装有道云词典
 brew install youdaodict
 
+# Typora是一款非常棒markdown编辑器
+brew install cask typora
 
 # 命令行工具
 # iterm 2
