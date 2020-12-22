@@ -39,11 +39,8 @@ brew install cask typora
 # iterm 2
 brew install iterm2
 
-# 下载Ag搜索工具
-brew install the_silver_searcher
-
 # Git
 brew install git
 
-# unrar 解压rar文件
-brew install unrar
+# pgadmin4
+brew install cask pgadmin4
