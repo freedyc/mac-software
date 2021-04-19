@@ -16,4 +16,5 @@ brew install wget
 # curl
 brew install curl
 
-
+# docker
+brew install --cask --appdir=/Applications docker
