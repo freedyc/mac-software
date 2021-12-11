@@ -44,3 +44,6 @@ brew install git
 
 # pgadmin4
 brew install cask pgadmin4
+
+# Mark Text
+brew install mark-text
