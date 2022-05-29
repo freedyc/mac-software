@@ -21,13 +21,13 @@ brew install cask wechat
 brew install cask tencent-meeting
 
 # 安装钉钉
-brew install cask dingtalk
+# brew install cask dingtalk
 
 # 安装shadowsocksx
 brew install shadowsocksx
 
 # 安装wps
-brew install cask wpsoffice
+# brew install cask wpsoffice
 
 # 安装有道云词典
 brew install youdaodict
@@ -47,3 +47,4 @@ brew install cask pgadmin4
 
 # Mark Text
 brew install mark-text
+

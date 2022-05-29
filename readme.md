@@ -21,10 +21,11 @@ brew search wps
 
 ```bash
 # 源码方式安装 （类似下载源码后，执行./configure && make && make install）
-brew install
+brew install 名称
+# 例如： brew install wget
 
 # 二进制包安装方式 （下载好编译好的.dmg,pkg)
-brew install cask
+brew install cask 名称
 ```
 
 ## 切换源

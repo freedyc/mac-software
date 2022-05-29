@@ -1,0 +1,24 @@
+[user]
+    name = dengyongchao
+    email = dengyongchao@126.com
+
+[alias]
+    df = diff
+    st = status
+    br = branch
+    ci = commit
+    co = checkout
+    sm = submodule
+    cls = clean -df
+
+[color]
+    ui = auto
+
+[push]
+    default = current
+
+[pull]
+    default = current
+
+[core]
+    filemode = false

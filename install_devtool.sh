@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # 主要安装实用的工具,更高效的操作
 
 # 代码统计工具
@@ -16,11 +17,8 @@ brew install wget
 # curl
 brew install curl
 
-# docker
-brew install --cask --appdir=/Applications docker
-
-
 # stunnel
-
-
 brew install stunnel --cask
+
+# 目录跳转
+brew install autojump

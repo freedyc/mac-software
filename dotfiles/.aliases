@@ -1,0 +1,6 @@
+# Sha256
+alias sha256="openssl dgst -sha256"
+
+# ip addresses
+alias localip="ipconfig getifaddr en0"
+alias ips="ifconfig -a | grep -o 'inet6\? \(addr:\)\?\s\?\(\(\([0-9]\+\.\)\{3\}[0-9]s
